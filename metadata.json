@@ -1,0 +1,9 @@
+{
+  "name": "Yemen Net PRO",
+  "description": "تطبيق متطور لمراقبة رصيد يمن نت باستخدام الذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "orientation": "portrait"
+}
